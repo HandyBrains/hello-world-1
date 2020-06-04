@@ -1,6 +1,30 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying container using Ansible</h2>
-<h2> This worked    :)  </h2>
-<h3>Added additonal line iwth H3 to test</h3>
-<h2> code modified to get the ansible deployment on container</h2>
-<h2> F </h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Noolagam</title>
+</head>
+<body>
+<center>
+    <h1>
+        Book Selector 
+    </h1>
+    <h2>
+    Select your favourite book
+    </h2>
+    <form method="post" action="SelectBook">
+       <br>
+        <select name="Type" size="1">
+            <option>PonniyinSelvan</option>
+            <option>ParthibanKanavu</option>
+            <option>SivakamiyinSabadham</option>
+
+        </select>
+        <br><br>
+        <input type="submit">
+    </form>
+</center>
+
+
+</body>
+</html>
